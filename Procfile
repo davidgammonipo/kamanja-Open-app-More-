@@ -1,1 +1,1 @@
-web:    java -jar target/helloworld.jariq
+web:    java -jar target/helloworld.jar

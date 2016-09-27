@@ -9,6 +9,8 @@
   <#include "nav.ftl">
 
 <div class="jumbotron text-center">
+	<h1>Working</h1>
+
   <div class="container">
     <a href="/" class="lang-logo">
       <img src="/lang-logo.png">
